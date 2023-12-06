@@ -18,6 +18,7 @@ nav{
     border-bottom: 1px solid #ffffff1a;
     top: 0;
     width: 100%;
+    z-index: 999999;
 }
 .logo{
     width: 1200px;
